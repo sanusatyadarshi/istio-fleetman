@@ -1,3 +1,9 @@
 /.metadata/
 target/
 .recommenders/
+src/6/istio-fleetman-api-gateway/.classpath
+src/6/istio-fleetman-api-gateway/.project
+src/6/istio-fleetman-vehicle-telemetry/.classpath
+src/6/istio-fleetman-vehicle-telemetry/.project
+src/6-no-propagation/istio-fleetman-api-gateway/.project
+src/6-no-propagation/istio-fleetman-vehicle-telemetry/.project
